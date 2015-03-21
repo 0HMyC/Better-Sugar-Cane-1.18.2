@@ -1,6 +1,7 @@
 package com.numbah90.bettersugarcane;
 
 import com.numbah90.bettersugarcane.help.Reference;
+import com.numbah90.bettersugarcane.init.ModBlocks;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -13,7 +14,7 @@ public class BetterSugarCane
     @EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
-
+        ModBlocks.init();
     }
 
     @EventHandler
