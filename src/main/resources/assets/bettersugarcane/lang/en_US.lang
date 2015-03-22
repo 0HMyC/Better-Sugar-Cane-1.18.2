@@ -1,3 +1,48 @@
-itemGroup.assets/bettersugarcane=Better Sugar Cane
+itemGroup.bettersugarcane=Better Sugar Cane
 
-tile.compressedSugarCaneBlock.name=Compressed Sugar Cane Block
+tile.compressedSugarCaneBlock.name=Compressed Sugar Cane
+tile.compressedSugarCaneBlock2.name=Double Compressed Sugar Cane
+tile.compressedSugarCaneBlock3.name=Triple Compressed Sugar Cane
+tile.compressedSugarCaneBlock4.name=Quadruple Compressed Sugar Cane
+tile.compressedSugarCaneBlock5.name=Quintuple Compressed Sugar Cane
+tile.compressedSugarCaneBlock6.name=Sextuple Compressed Sugar Cane
+tile.compressedSugarCaneBlock7.name=Septuple Compressed Sugar Cane
+tile.compressedSugarCaneBlock8.name=Octuple Compressed Sugar Cane
+
+tile.compressedSugar.name=Compressed Sugar
+tile.compressedSugar2.name=Double Compressed Sugar
+
+item.sugarCaneRod.name=Sugar Cane Rod
+item.sugarcookie.name=Sugar Cookie
+
+item.scIronSword.name=Sword
+item.scDiamondSword.name=Sword
+item.scGoldSword.name=Sword
+
+item.scIronPick.name=Pickaxe
+item.scDiamondPick.name=Pickaxe
+item.scGoldPick.name=Pickaxe
+
+item.scIronAxe.name=Axe
+item.scDiamondAxe.name=Axe
+item.scGoldAxe.name=Axe
+
+item.scIronShovel.name=Shovel
+item.scDiamondShovel.name=Shovel
+item.scGoldShovel.name=Shovel
+
+tooltip.onSword.desc=Iron, Sugar Cane Rod
+tooltip.amondSword.desc=Diamond, Sugar Cane Rod
+tooltip.ldSword.desc=Gold, Sugar Cane Rod
+
+tooltip.onPick.desc=Iron, Sugar Cane Rod
+tooltip.amondPick.desc=Diamond, Sugar Cane Rod
+tooltip.ldPick.desc=Gold, Sugar Cane Rod
+
+tooltip.onAxe.desc=Iron, Sugar Cane Rod
+tooltip.amondAxe.desc=Diamond, Sugar Cane Rod
+tooltip.ldAxe.desc=Gold, Sugar Cane Rod
+
+tooltip.onShovel.desc=Iron, Sugar Cane Rod
+tooltip.amondShovel.desc=Diamond, Sugar Cane Rod
+tooltip.ldShovel.desc=Gold, Sugar Cane Rod
