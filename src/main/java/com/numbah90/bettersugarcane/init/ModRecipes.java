@@ -9,14 +9,14 @@ public class ModRecipes
 {
     public static void recipeInit()
     {
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock), new ItemStack(Items.reeds, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock2), new ItemStack(ModBlocks.compressedSugarCaneBlock, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock3), new ItemStack(ModBlocks.compressedSugarCaneBlock2, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock4), new ItemStack(ModBlocks.compressedSugarCaneBlock3, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock5), new ItemStack(ModBlocks.compressedSugarCaneBlock4, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock6), new ItemStack(ModBlocks.compressedSugarCaneBlock5, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock7), new ItemStack(ModBlocks.compressedSugarCaneBlock6, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock8), new ItemStack(ModBlocks.compressedSugarCaneBlock7, 9));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock), "xxx", "xxx", "xxx", 'x', new ItemStack(Items.reeds));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock2), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugarCaneBlock));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock3), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugarCaneBlock2));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock4), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugarCaneBlock3));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock5), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugarCaneBlock4));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock6), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugarCaneBlock5));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock7), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugarCaneBlock6));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock8), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugarCaneBlock7));
         GameRegistry.addShapelessRecipe(new ItemStack(Items.reeds, 9), new ItemStack(ModBlocks.compressedSugarCaneBlock));
         GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock, 9), new ItemStack(ModBlocks.compressedSugarCaneBlock2));
         GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock2, 9), new ItemStack(ModBlocks.compressedSugarCaneBlock3));
@@ -26,8 +26,8 @@ public class ModRecipes
         GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock6, 9), new ItemStack(ModBlocks.compressedSugarCaneBlock7));
         GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugarCaneBlock7, 9), new ItemStack(ModBlocks.compressedSugarCaneBlock8));
 
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugar), new ItemStack(Items.sugar, 9));
-        GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugar2), new ItemStack(ModBlocks.compressedSugar, 9));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugar), "xxx", "xxx", "xxx", 'x', new ItemStack(Items.sugar));
+        GameRegistry.addShapedRecipe(new ItemStack(ModBlocks.compressedSugar2), "xxx", "xxx", "xxx", 'x', new ItemStack(ModBlocks.compressedSugar));
         GameRegistry.addShapelessRecipe(new ItemStack(Items.sugar, 9), new ItemStack(ModBlocks.compressedSugar));
         GameRegistry.addShapelessRecipe(new ItemStack(ModBlocks.compressedSugar, 9), new ItemStack(ModBlocks.compressedSugar2));
 
