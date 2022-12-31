@@ -1,13 +1,7 @@
 package com.ohmyc.bettersugarcane.init;
 
 import com.ohmyc.bettersugarcane.items.*;
-//import com.ohmyc.bettersugarcane.items.ItemScPick;
-//import com.ohmyc.bettersugarcane.items.ItemScShovel;
-//import com.ohmyc.bettersugarcane.items.ItemScSword;
 import com.ohmyc.bettersugarcane.items.toolmats.*;
-//import com.ohmyc.bettersugarcane.items.toolmats.ScDiamond;
-//import com.ohmyc.bettersugarcane.items.toolmats.ScGold;
-//import com.ohmyc.bettersugarcane.items.toolmats.ScIron;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
