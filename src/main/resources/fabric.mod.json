@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "bettersugarcane",
+  "version": "1.0.0",
+
+  "name": "Better Sugar Cane (1.18.2)",
+  "description": "A port/recreation of Numbah90's Better Sugar Cane mod (1.7.10) to 1.18.2.",
+  "authors": [
+    "0hMyC - Recreated mod for 1.18.2",
+    "Numbah90/CobaltBlues - Original Mod Concept",
+	"MiningMark48 - General coding for original Mod",
+	"Codyrule - Textures for Original Mod"
+  ],
+  "contact": {
+    "homepage": "https://github.com/0HMyC",
+	"orighomepage": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2220244-better-sugar-cane-v1-1",
+    "sources": "https://github.com/0HMyC/Better-Sugar-Cane-1.18.2"
+  },
+
+  "license": "Apache License 2.0",
+  "icon": "assets/bettersugarcane/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.ohmyc.bettersugarcane.BetterSugarCane"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  }
+}
