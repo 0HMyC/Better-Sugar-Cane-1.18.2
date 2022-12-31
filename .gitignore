@@ -4,7 +4,9 @@ gradle
 out
 RemoteSystemsTempFiles
 build
+run
 .settings
+.idea
 .gradle
 .metadata
 Better-Sugar-Cane.iml
