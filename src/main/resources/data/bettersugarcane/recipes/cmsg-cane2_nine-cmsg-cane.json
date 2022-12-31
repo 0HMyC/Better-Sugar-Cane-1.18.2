@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "bettersugarcane:compressed_sugarcane2"
+		}
+	],
+	"result": {
+		"item": "bettersugarcane:compressed_sugarcane",
+		"count": 9
+	}
+}

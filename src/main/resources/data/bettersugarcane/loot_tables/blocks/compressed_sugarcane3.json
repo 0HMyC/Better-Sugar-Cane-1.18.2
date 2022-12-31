@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+	{
+	  "rolls": 1,
+	  "entries": [
+		{
+		  "type": "minecraft:item",
+		  "name": "bettersugarcane:compressed_sugarcane3"
+		}
+	  ],
+	  "conditions": [
+		{
+		  "condition": "minecraft:survives_explosion"
+		}
+	  ]
+	}
+  ]
+}

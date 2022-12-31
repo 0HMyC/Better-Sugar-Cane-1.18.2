@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"G",
+		"R",
+		"R"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:gold_block"
+		},
+		"R": {
+			"item": "bettersugarcane:sugarcane_rod"
+		}
+	},
+	"result": {
+		"item": "bettersugarcane:sc-goldshovel"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" SB",
+		"SBS",
+		"BS "
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:sugar_cane"
+		},
+		"B": {
+			"item": "bettersugarcane:compressed_sugarcane"
+		}
+	},
+	"result": {
+		"item": "bettersugarcane:sugarcane_rod"
+	}
+}

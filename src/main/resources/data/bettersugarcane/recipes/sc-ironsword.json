@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"I",
+		"I",
+		"R"
+	],
+	"key": {
+		"I": {
+			"item": "minecraft:iron_block"
+		},
+		"R": {
+			"item": "bettersugarcane:sugarcane_rod"
+		}
+	},
+	"result": {
+		"item": "bettersugarcane:sc-ironsword"
+	}
+}

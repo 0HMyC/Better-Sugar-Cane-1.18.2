@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"SSS",
+		"SSS"
+	],
+	"key": {
+		"S": {
+			"item": "bettersugarcane:compressed_sugarcane2"
+		}
+	},
+	"result": {
+		"item": "bettersugarcane:compressed_sugarcane3"
+	}
+}

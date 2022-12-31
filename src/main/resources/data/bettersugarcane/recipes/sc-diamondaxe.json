@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DD",
+		"DR",
+		" R"
+	],
+	"key": {
+		"D": {
+			"item": "minecraft:diamond_block"
+		},
+		"R": {
+			"item": "bettersugarcane:sugarcane_rod"
+		}
+	},
+	"result": {
+		"item": "bettersugarcane:sc-diamondaxe"
+	}
+}
