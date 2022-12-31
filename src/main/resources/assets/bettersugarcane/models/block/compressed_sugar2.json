@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+	"all": "bettersugarcane:block/compressed_sugar2"
+  }
+}
+

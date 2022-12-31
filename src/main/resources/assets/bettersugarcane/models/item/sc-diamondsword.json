@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bettersugarcane:item/sc-diamondsword"
+  }
+}
