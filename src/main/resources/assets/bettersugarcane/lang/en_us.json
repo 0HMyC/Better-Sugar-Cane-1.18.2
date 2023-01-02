@@ -34,5 +34,6 @@
 	"item.bettersugarcane.sc-goldshovel": "Golden Shovel",
 	"item.bettersugarcane.sc-goldshovel.tooltip": "Gold, Sugar Cane Rod",
 	"item.bettersugarcane.sc-diamondshovel": "Diamond Shovel",
-	"item.bettersugarcane.sc-diamondshovel.tooltip": "Diamond, Sugar Cane Rod"
+	"item.bettersugarcane.sc-diamondshovel.tooltip": "Diamond, Sugar Cane Rod",
+	"itemGroup.bettersugarcane.creative": "Better Sugar Cane"
 }
