@@ -21,7 +21,7 @@ public class ScGold implements ToolMaterial {
     // close to/faster than diamond?
     @Override
     public float getMiningSpeedMultiplier() {
-        return 16.0F;
+        return 37.5F;
     }
     @Override
     public float getAttackDamage() {
